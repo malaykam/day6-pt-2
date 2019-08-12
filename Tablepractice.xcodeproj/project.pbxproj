@@ -13,6 +13,7 @@
 		B5B94DB42301EB0F00BD80C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B94DB22301EB0F00BD80C2 /* LaunchScreen.storyboard */; };
 		B5B94DBF2301EB0F00BD80C2 /* TablepracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B94DBE2301EB0F00BD80C2 /* TablepracticeTests.swift */; };
 		B5B94DCA2301EB0F00BD80C2 /* TablepracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B94DC92301EB0F00BD80C2 /* TablepracticeUITests.swift */; };
+		B5B94DDC2301FAEA00BD80C2 /* FishTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B94DDB2301FAEA00BD80C2 /* FishTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B5B94DC52301EB0F00BD80C2 /* TablepracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TablepracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B94DC92301EB0F00BD80C2 /* TablepracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablepracticeUITests.swift; sourceTree = "<group>"; };
 		B5B94DCB2301EB0F00BD80C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5B94DDB2301FAEA00BD80C2 /* FishTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FishTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				B5B94DA92301EB0D00BD80C2 /* AppDelegate.swift */,
 				B5B94DAD2301EB0D00BD80C2 /* Main.storyboard */,
+				B5B94DDB2301FAEA00BD80C2 /* FishTableViewController.swift */,
 				B5B94DB02301EB0F00BD80C2 /* Assets.xcassets */,
 				B5B94DB22301EB0F00BD80C2 /* LaunchScreen.storyboard */,
 				B5B94DB52301EB0F00BD80C2 /* Info.plist */,
@@ -254,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5B94DAA2301EB0D00BD80C2 /* AppDelegate.swift in Sources */,
+				B5B94DDC2301FAEA00BD80C2 /* FishTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
